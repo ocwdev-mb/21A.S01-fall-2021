@@ -1,0 +1,44 @@
+{
+  "term": "Fall",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "c5fe9c2a-5d86-ce97-8182-fb1f1e498ac5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7fa37f60-5959-4697-91ff-e3548351c707",
+    "website": "reparations-for-slavery-and-colonization-contemporary-movements-for-justice"
+  },
+  "course_title": "Reparations for Slavery and Colonization: Contemporary Movements for Justice",
+  "course_description": "This class brings anthropological concepts to bear on contemporary movements for justice for harms committed during European colonization in Africa. Over the course of the semester, we use critical readings on topics such as violence, human rights discourse, narrating and measuring harm, memory, and group identity formation to reflect on and contribute to the work of two groups of practitioners currently engaged in claims for justice and reparations for European colonialism in Africa: in Algeria (France), and in the Congo, Burundi, and Rwanda respectively (Belgium).",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21A.S01",
+  "course_image_thumbnail": {
+    "content": "d0d2833c-7745-4e16-b979-e79b3f6a85ba",
+    "website": "reparations-for-slavery-and-colonization-contemporary-movements-for-justice"
+  },
+  "learning_resource_types": [
+    "Readings",
+    "Written Assignments",
+    "Instructor Insights",
+    "Videos"
+  ],
+  "site_uid": "86014005-7fa7-4d99-9a7b-cb045f53f517",
+  "site_short_id": "21A.S01-fall-2021"
+}
